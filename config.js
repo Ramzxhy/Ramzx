@@ -12,6 +12,6 @@
 ⬡═━――――――――――――――――――――――――――――――━═⬡
 */
 module.exports = {
-  BOT_TOKEN: "8024243080:AAE0vFwgKDqzGwY8fwwsObY_VHgnUqZw4-g",
+  BOT_TOKEN: "8559484845:AAHgqe4AKWYs7uXaEgH4B_Q6McCbqlLhCOE",
   OWNER_ID: ["8161803979"],
 };
